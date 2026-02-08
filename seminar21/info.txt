@@ -1,2 +1,2 @@
-during this seminar we implemented out own vector class with basic structures, mine is located here 
-https://github.com/HerrHeiler/hse_seminars_cpp/tree/seminars/class_vector
+during this seminar we implemented out own vector class with basic structures
+see folder class_vector or https://github.com/HerrHeiler/hse_seminars_cpp/tree/seminars/class_vector
