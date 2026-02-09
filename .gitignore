@@ -1,1 +1,17 @@
+# Compiled binaries
 compiled_cpp
+*.out
+*.o
+*.exe
+
+# Build directory
+build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
