@@ -12,8 +12,8 @@
 #include <iostream>
 
 class Matrix {
-    std::unique_ptr<double[]> data_;
     size_t rows_, cols_;
+    std::unique_ptr<double[]> data_;
 public:
     Matrix(size_t rows, size_t cols) : rows_(rows), cols_(cols), data_(std::make_unique<double[]>(rows * cols)) {}
 
